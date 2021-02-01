@@ -1,0 +1,27 @@
+body{
+    background-color:lawngreen;
+    text-align:center;
+  }
+  h1{
+    background-color: darkturquoise;
+  text-align: center;
+  font-style: italic;
+  }
+  .family_name{
+   background-color: rgb(175, 175, 169);
+  text-align: center;
+  font-style: italic;
+  }
+  #image1{
+   width:1000px;
+    height:700px;
+    
+  }
+  #move{
+    height:80px;
+    width:80px;
+    border-radius:40px;
+    background-color:blueviolet;
+    color:red;
+    
+  }
